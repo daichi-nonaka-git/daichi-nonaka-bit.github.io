@@ -1,1 +1,1 @@
-# daichi-nonaka-bit.github.io
+# daichi-nonaka-git.github.io
